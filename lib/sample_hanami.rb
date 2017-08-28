@@ -1,0 +1,2 @@
+module SampleHanami
+end
